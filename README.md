@@ -96,7 +96,7 @@ customer-segmentation/
 │
 ├── Kmeans_Segmentation_of_Customers.ipynb   # Main Colab/Jupyter notebook
 ├── Mall_Customers.csv            # Dataset
-├── requirements.txt              # Dependencies
+├── Requirements.txt              # Dependencies
 ├── LICENSE                       # MIT License
 └── README.md                     # This file
 ```
